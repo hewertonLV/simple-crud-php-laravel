@@ -7,10 +7,17 @@ PHP v.8.1
 ## Install project
 
 create file .env with the correct values to ENVs
+``` composer install ``` 
+``` npm install ``` 
 ``` composer require yoeunes/toastr ``` 
 ``` php artisan migrate ```
 
 ## Running project
 
 ``` php artisan serve ```
+
+## URL
+
+http://localhost:8000/product/index
+
 
