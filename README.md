@@ -1,3 +1,9 @@
+simple-crud-php-laravel
+
+## Description
+
+CRUD of products with php + laravel.
+
 ## Requirements
 Composer v.2.6.2
 Laravel v.10
